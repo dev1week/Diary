@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "177154013929",
+    "project_id": "testproject-6ec60",
+    "storage_bucket": "testproject-6ec60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177154013929:android:5b72e8774706c61ec20e78",
+        "android_client_info": {
+          "package_name": "com.anonymous.Diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177154013929-4c74lufp63jt4ir58k9l5js5udm0fnfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYg46fslGSpCGdEA6QaxIwltLXycUAnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177154013929-4c74lufp63jt4ir58k9l5js5udm0fnfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177154013929-f5g3paqoj8vr1hsf60jc5b1llnlr6pjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssafy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177154013929:android:96bbfdd5481e11e2c20e78",
+        "android_client_info": {
+          "package_name": "com.ssafy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177154013929-4c74lufp63jt4ir58k9l5js5udm0fnfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYg46fslGSpCGdEA6QaxIwltLXycUAnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177154013929-4c74lufp63jt4ir58k9l5js5udm0fnfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177154013929-f5g3paqoj8vr1hsf60jc5b1llnlr6pjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssafy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
